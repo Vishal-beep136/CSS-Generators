@@ -15,6 +15,12 @@ Best free recourses and time saving of CSS
 
 <br>
 
+
+## [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
+![image](https://user-images.githubusercontent.com/82146140/172300923-941de3b5-e1a1-40e2-a67b-38f2716308e7.png)
+
+<br>
+
 ## [Glass Morphism Generator (glassgenerator)](https://glassgenerator.netlify.app/)
 ![image](https://user-images.githubusercontent.com/82146140/172050874-c4b7cc24-a22d-46e9-abb2-9c36f6dfb8be.png)
 
