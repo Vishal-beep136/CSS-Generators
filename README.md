@@ -73,3 +73,7 @@ Best free recourses and time saving of CSS
 ![image](https://user-images.githubusercontent.com/82146140/172051397-cc423730-6631-4abe-bf04-2641728f432a.png)
 
 <br>
+
+## [CSS Color Palettes Generator](https://coolors.co/)
+![image](https://user-images.githubusercontent.com/82146140/172986542-7b102d64-f3f3-408a-a2f0-fd1f3049e4a6.png)
+
