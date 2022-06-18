@@ -27,10 +27,6 @@ Note -  These resources are not in ranking-wise!
 
 <br>
 
-## [Glass Morphism Generator (glassgenerator)](https://glassgenerator.netlify.app/)
-![image](https://user-images.githubusercontent.com/82146140/172050874-c4b7cc24-a22d-46e9-abb2-9c36f6dfb8be.png)
-
-
 ## [CSS Stripes Generator](https://stripesgenerator.com/)
 ![image](https://user-images.githubusercontent.com/82146140/172050952-4b069328-c0e5-4ff0-969b-6f471b2d28c9.png)
 
@@ -77,3 +73,7 @@ Note -  These resources are not in ranking-wise!
 ## [CSS Color Palettes Generator](https://coolors.co/)
 ![image](https://user-images.githubusercontent.com/82146140/172986542-7b102d64-f3f3-408a-a2f0-fd1f3049e4a6.png)
 
+<br>
+
+## [Glass Morphism Generator (glassgenerator)](https://glassgenerator.netlify.app/)
+![image](https://user-images.githubusercontent.com/82146140/172050874-c4b7cc24-a22d-46e9-abb2-9c36f6dfb8be.png)
