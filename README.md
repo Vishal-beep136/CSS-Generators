@@ -21,6 +21,10 @@ Note -  These resources are not in ranking-wise!
 
 <br>
 
+## [CSS Shadows Generator (SmoothShadow) ](https://shadows.brumm.af/)
+![image](https://user-images.githubusercontent.com/82146140/174473002-09c1d115-4cdc-4b14-8f6e-30686f1e7625.png)
+
+
 
 ## [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 ![image](https://user-images.githubusercontent.com/82146140/172300923-941de3b5-e1a1-40e2-a67b-38f2716308e7.png)
