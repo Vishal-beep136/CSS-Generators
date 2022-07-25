@@ -12,6 +12,10 @@ Note -  These resources are not in ranking-wise!
 <br>
 <br>
 
+## [Neumorphism Shadow Generator](https://neumorphism.io/#e0e0e0)
+![image](https://user-images.githubusercontent.com/82146140/180700086-1c9be92a-4095-41c6-9d4f-876979100580.png)
+
+
 ## [Enojy CSS (Many Tools For CSS)](https://enjoycss.com/)
 ![image](https://user-images.githubusercontent.com/82146140/172301378-2bf7766b-3ff1-4b48-b256-533f86e32b3c.png)
 
